@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess_app/static/css/main.0d1bcf5b.css",
+    "main.js": "/chess_app/static/js/main.4776b861.js",
+    "static/js/787.fb9c7072.chunk.js": "/chess_app/static/js/787.fb9c7072.chunk.js",
+    "index.html": "/chess_app/index.html",
+    "main.0d1bcf5b.css.map": "/chess_app/static/css/main.0d1bcf5b.css.map",
+    "main.4776b861.js.map": "/chess_app/static/js/main.4776b861.js.map",
+    "787.fb9c7072.chunk.js.map": "/chess_app/static/js/787.fb9c7072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1bcf5b.css",
+    "static/js/main.4776b861.js"
+  ]
+}
